@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hola👋Bienvenido a mi GitHub
 
-<!--
-**Aljose30/aljose30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ My_Stack ✨
 
-Here are some ideas to get you started:
+🐍Python y sus interminables bibliotecas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐼Pandas Para todo
+
+:cd: SQL por siempre
+
+#:computer: Otras tecnologías con las que trabajé:
+
+✅ Web scraping
+
+✅ Docker
+
+✅ Airflow
+
+# :sunglasses: Acerca de mí:
+
+🎓Terminé un Bootcamp en Data Science, donde aprendo un poco sobre estadísticas, modelos de aprendizaje automático y pipelines.
+
+🔧Trabajé con ETL, pipelines, limpieza y visualización de datos.
+
+:satellite: Busco colaborar en cualquier proyecto de  Backend, ingeniería de datos o análisis de datos
+
+💻Hice algunos cursos relacionados con el Backend, por lo que verá algunos proyectos backend aquí. Luego descubrí los Datos y BOOM!:boom:.
+
+:mailbox: No dude en enviarme un correo electrónico: Aljose30@gmail.com
+
+También puedes encontrarme en:
+
+www.linkedin.com/in/alexander-gutierrez-926214239
