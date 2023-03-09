@@ -24,7 +24,7 @@
 
 :satellite: Busco colaborar en cualquier proyecto de  Backend, ingeniería de datos o análisis de datos
 
-💻Hice algunos cursos relacionados con el Backend, por lo que verá algunos proyectos backend aquí. Luego descubrí los Datos y BOOM!:boom:.
+💻Hice algunos cursos relacionados con el Backend, por lo que verá algunos proyectos backend aquí. BOOM!:boom:.
 
 :mailbox: No dude en enviarme un correo electrónico: Aljose30@gmail.com
 
