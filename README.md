@@ -6,7 +6,7 @@
 
 🐼Pandas Para todo
 
-:cd: SQL por siempre
+:cd: SQL 
 
 #:computer: Otras tecnologías con las que trabajé:
 
